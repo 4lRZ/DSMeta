@@ -1,4 +1,4 @@
-package com.lrz.dsmeta;
+package com.alrz.dsmeta;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

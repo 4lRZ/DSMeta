@@ -8,11 +8,11 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.4lrz</groupId>
+	<groupId>com.alrz</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description>Projeto da Semana Spring React</description>
+	<description>Project created in spring react week</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
